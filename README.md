@@ -1,2 +1,2 @@
 # GSM
-GSM moden control with PIC
+GSM modem control with PIC
